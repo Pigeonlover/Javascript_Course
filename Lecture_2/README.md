@@ -1,5 +1,4 @@
 # Javascript
-# All the Javascript tasks that are part of the online course I am doing.
 
 
 
